@@ -21,4 +21,4 @@ Description of the dashboard.
 
 ## Project Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard 1.png)
