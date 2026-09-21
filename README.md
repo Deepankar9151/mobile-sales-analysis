@@ -1,2 +1,24 @@
-# mobile-sales-analysis
-Mobile sales data analysis and interactive dashboard using Excel and Power BI.
+# Project Name
+
+## Project Overview
+
+Short explanation of the project.
+
+## Tools Used
+
+- Excel
+- Power BI
+
+## Data Analysis
+
+- Analysis 1
+- Analysis 2
+- Analysis 3
+
+## Dashboard
+
+Description of the dashboard.
+
+## Project Preview
+
+![Dashboard](Dashboard.png)
