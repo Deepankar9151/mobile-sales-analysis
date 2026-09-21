@@ -1,23 +1,88 @@
-# Project Name
+# Mobile Sales Data Analysis & Dashboard
 
 ## Project Overview
 
-Short explanation of the project.
+This project analyzes mobile sales data using Microsoft Excel and Power BI. The dataset was cleaned, analyzed, and visualized to identify sales trends, product performance, customer behavior, and key business metrics.
 
-## Tools Used
+## Tools & Technologies
 
-- Excel
+- Microsoft Excel
 - Power BI
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Pivot Tables
+- Power Query
 
-## Data Analysis
+## Dataset
 
-- Analysis 1
-- Analysis 2
-- Analysis 3
+The project uses a mobile sales dataset containing information related to mobile products, sales transactions, customers, payment methods, and other sales-related attributes.
+
+## Data Preparation
+
+The dataset was prepared for analysis by:
+
+- Cleaning the raw data
+- Handling missing and inconsistent values
+- Checking duplicate records
+- Transforming data into an analysis-ready format
+- Creating required columns and calculations
+
+## Key Analysis
+
+The project focuses on:
+
+- Total sales analysis
+- Quantity sold
+- Sales by mobile brand
+- Sales by mobile model
+- Sales by payment method
+- Sales by city
+- Sales trends over time
+- Customer and transaction analysis
+- Overall sales performance
 
 ## Dashboard
 
-Description of the dashboard.
+An interactive dashboard was created to present the analysis in an easy-to-understand format.
 
-## Project Preview
-(dashboard 1.png)
+The dashboard includes:
+
+- Key Performance Indicators (KPIs)
+- Sales trend analysis
+- Brand-wise sales
+- Model-wise sales
+- City-wise sales
+- Payment method analysis
+- Interactive filters and visualizations
+
+## Dashboard Preview
+
+![Mobile Sales Dashboard](dashboard.png)
+
+## Project Files
+
+- `mobile_sales_dataset.csv` - Dataset used for the analysis
+- `dashboard.png` - Dashboard preview
+- `mobile_sales_first_page.png` - Additional dashboard page
+
+## Power BI Dashboard
+
+If you have a publicly accessible Power BI report, add the link here:
+
+**[View Interactive Power BI Dashboard](PASTE-YOUR-POWER-BI-LINK-HERE)**
+
+## Key Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Microsoft Excel
+- Power BI
+- Dashboard Development
+- Business Intelligence
+- Data Interpretation
+
+## Project Outcome
+
+The project demonstrates how raw sales data can be transformed into meaningful visual insights using Excel and Power BI. The interactive dashboard helps users understand sales performance and identify important trends across products, locations, and transactions.
