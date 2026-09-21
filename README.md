@@ -20,5 +20,4 @@ Short explanation of the project.
 Description of the dashboard.
 
 ## Project Preview
-
-![Dashboard](dashboard 1.png)
+(dashboard 1.png)
