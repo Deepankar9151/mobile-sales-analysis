@@ -57,20 +57,13 @@ The dashboard includes:
 - Interactive filters and visualizations
 
 ## Dashboard Preview
-
-![Mobile Sales Dashboard](dashboard.png)
+https://github.com/Deepankar9151/mobile-sales-analysis/blob/main/mobile%20sales%20first%20page.png
 
 ## Project Files
 
 - `mobile_sales_dataset.csv` - Dataset used for the analysis
 - `dashboard.png` - Dashboard preview
 - `mobile_sales_first_page.png` - Additional dashboard page
-
-## Power BI Dashboard
-
-If you have a publicly accessible Power BI report, add the link here:
-
-**[View Interactive Power BI Dashboard](PASTE-YOUR-POWER-BI-LINK-HERE)**
 
 ## Key Skills Demonstrated
 
